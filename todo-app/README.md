@@ -8,6 +8,7 @@ A complete To-Do application with a React frontend and Node.js/Express REST API 
 
 ```
 todo-app/
+
 ├── backend/
 │   ├── server.js        ← Express REST API (port 5000)
 │   └── package.json
